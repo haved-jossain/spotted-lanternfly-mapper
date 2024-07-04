@@ -8,4 +8,6 @@ To run the tool-
 2. Add ArcPy from ArcGIS Pro's package manager
 3. Install spaCy (https://spacy.io/usage)
 4. Open SLF.aprx (ArcGIS Pro project file)
-5. Run the SLF script tool from the project toolbox
+5. Open SpottedLanternflyMapper script tool from the project toolbox
+   
+![image](https://github.com/haved-jossain/spotted-lanternfly-mapper/assets/145239371/d4ca8318-5634-473a-8feb-92779cd8dd7d)
